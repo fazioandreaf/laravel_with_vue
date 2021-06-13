@@ -10942,3 +10942,13 @@ a.text-dark:focus {
   }
 }
 
+body {
+  background-color: #3490dc;
+  color: white;
+}
+
+body header,
+body footer {
+  background-color: #6574cd;
+}
+
