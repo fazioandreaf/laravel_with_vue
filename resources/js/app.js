@@ -30,6 +30,7 @@ function init(){
 
     new Vue({
         el: '#app',
+        mounted:()=>console.log('ciao'),
     });
 }
-document.addEventListener('DOMContentLoaded',init());
+document.addEventListener('DOMContentLoaded',init);
